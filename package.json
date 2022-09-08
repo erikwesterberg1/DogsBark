@@ -1,0 +1,21 @@
+{
+    "name": "dogsbark",
+    "displayName": "dogsBark",
+    "description": "Theme two from PetsRoar",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.71.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DogsBark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DogsBark-color-theme.json"
+            }
+        ]
+    }
+}
