@@ -3,6 +3,19 @@
     "displayName": "dogsBark",
     "description": "Theme two from PetsRoar, low sat dark color theme",
     "version": "0.0.1",
+    "publisher": "PetsRoar",
+    "keywords": [
+        "theme",
+        "dark",
+        "dark theme",
+        "low saturation"
+        "dracula"
+        "low light"
+        "soft colors"
+        "pets roar"
+        "dog"
+        "bark"
+    ],
     "engines": {
         "vscode": "^1.71.0"
     },
