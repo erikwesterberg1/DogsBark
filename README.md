@@ -1,13 +1,7 @@
-# README
-## This is the README for your extension "dogsbark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Dogs Bark
+## Dark theme with soft colors for evning sessions
+This theme is in contrast to the vivid color dark theme cats meow, a dark theme with lower contrast and softer colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Leave a comment for improvements
 
 **Enjoy!**
