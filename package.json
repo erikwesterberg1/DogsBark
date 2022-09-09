@@ -4,6 +4,10 @@
     "description": "Theme two from PetsRoar, low sat dark color theme",
     "version": "0.0.1",
     "publisher": "PetsRoar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/erikwesterberg1/DogsBark"
+    },
     "keywords": [
         "theme",
         "dark",
